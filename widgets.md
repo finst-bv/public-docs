@@ -1,5 +1,5 @@
 ## Running bar
-The running bar allows publishers to easily display a list of digital assets prices and the (%) daily change, similar to https://www.coindesk.com/. 
+The running bar allows publishers to easily display a list of digital assets prices and the (%) daily change, similar to CoinDesk. 
 ![image](https://user-images.githubusercontent.com/7950236/226941177-0b5a632b-e5bb-4b63-98a6-356ef9aed73a.png)
 
 See example: https://app.finst.com/widgets/running-bar
