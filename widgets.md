@@ -21,7 +21,7 @@ In the URL parameters please replace `value` with the correct attributes specifi
 
 | Name            | Required | Description |
 | --------------- | -------- | ----------- |
-| `affiliateId`   | Yes      | Name of the affiliate partner who integrates the widget |
+| `affiliateId`   | Yes      | Website Name of the affiliate partner who integrates the widget |
 | `promotionCode` | No       | Finst promotion code if applicabl                       |
 | `theme`         | No       | Specify the color scheme of the widget `dark` or `light`|
 | `tap_a`         | No       | Use the `tap_a` value from your Tapfiliate account      |
